@@ -1,0 +1,15 @@
+
+__pycache__/
+*.py[cod]
+
+lingo.db
+*.db
+
+test.py
+test_database.py
+test_fetcher.py
+test_random.py
+
+.venv/
+venv/
+.env
